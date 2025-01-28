@@ -1,6 +1,6 @@
 
 
-### Olá, meu nome é {Marcos Vinicius Barbosa}!
+### Olá, meu nome é Marcos Vinicius Barbosa!
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando {seu curso} no {faculdade}.
@@ -43,11 +43,21 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
+### Experiência de trabalho
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="<img src="https://silabsst.com.br/wp2025/wp-content/uploads/2024/11/logo-silabsst.png" alt="">"/>](https://silabsst.com.br/wp2025/)
+
+
+**Full Stack** \
+[**SilabSST**](https://silabsst.com.br/wp2025/) • Full-time \
+Linguagens & Tecnologias: `Angular`, `Node`, `TypeScript`, `Mysql`, `Git`, `Jira`,\
+Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+<br/>
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 ## Onde me encontrar
 
